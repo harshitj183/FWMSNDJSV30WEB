@@ -4,7 +4,8 @@
   "description": "A platform to connect food donors with NGOs",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "echo 'No build step defined'"
   },
   "dependencies": {
     "bcrypt": "^5.1.1",
